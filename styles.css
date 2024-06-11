@@ -36,7 +36,8 @@ body {
   .profession,
   .hobbies,
   .phone_number,
-  .bio {
+  .bio,
+  .nationality {
     margin: 10px 0;
     color: #555;
     font-size: 22px;
